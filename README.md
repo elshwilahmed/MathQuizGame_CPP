@@ -75,7 +75,7 @@ Question[3/3]
 * 6
 ______________
 20  
-Wrong Answer ❌
+Wrong Answer ❌  
 The Right Answer : 24
 
 🧾 Final Results Example
