@@ -45,11 +45,13 @@ It’s a great mini–project to practice logic, control flow, and structured pr
 - **Libraries:** `<iostream>`, `<cstdlib>`, `<ctime>`, `<cctype>`  
 - **Compiler:** Works with any standard C++ compiler (e.g., g++, MSVC, Clang)
 
-📸 Sample Output
+## 📸 Sample Output
 
 How Many Questions You Want Answer ? 3
+
 Enter Question Level[1]:Easy [2]:Medium [3]:Hard [4]:Mix
 1
+
 Enter Question OP[1]:ADD [2]:Sub [3]:Mul [4]:div [5]:Mix
 5
 
@@ -81,15 +83,19 @@ _______________________________________
         Final result is Pass 
 _______________________________________
 Number Of Question : 3
+
 Questions level : Easy
+
 Questions operation : +
+
 Right Answers : 2
+
 Wrong Answers : 1
 _______________________________________
 
 🧑‍💻 Author
 
 Ahmed Elshwil
-🎓 Computer Science Student | 💻 Passionate about C++ and Problem Solving
-📧 [elshwilahmed@gmail.com]
-🌐 https://github.com/elshwilahmed
+🎓 Computer Science Student | 💻 Passionate about C++ and Problem Solving  
+📧 [elshwilahmed@gmail.com]  
+🌐 https://github.com/elshwilahmed  
