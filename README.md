@@ -56,25 +56,25 @@ Enter Question OP[1]:ADD [2]:Sub [3]:Mul [4]:div [5]:Mix
 5
 
 
-Question[1/3]
-7
+Question[1/3]  
+7  
 + 5
 ______________
-12
+12  
 Correct Answer ✅
 
-Question[2/3]
-9
+Question[2/3]  
+9  
 / 3
 ______________
-3
+3  
 Correct Answer ✅
 
-Question[3/3]
-4
+Question[3/3]  
+4  
 * 6
 ______________
-20
+20  
 Wrong Answer ❌
 The Right Answer : 24
 
@@ -82,15 +82,11 @@ The Right Answer : 24
 _______________________________________
         Final result is Pass 
 _______________________________________
-Number Of Question : 3
-
-Questions level : Easy
-
-Questions operation : +
-
-Right Answers : 2
-
-Wrong Answers : 1
+Number Of Question : 3  
+Questions level : Easy  
+Questions operation : +  
+Right Answers : 2  
+Wrong Answers : 1  
 _______________________________________
 
 🧑‍💻 Author
