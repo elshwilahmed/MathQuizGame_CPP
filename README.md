@@ -84,7 +84,7 @@ _______________________________________
 _______________________________________
 Number Of Question : 3  
 Questions level : Easy  
-Questions operation : +  
+Questions operation : m   
 Right Answers : 2  
 Wrong Answers : 1  
 _______________________________________
